@@ -34,7 +34,8 @@ Welcome to my second React Native Expo app called **Spin the Bottle** (Točení 
 
 ### Technologies
 
-This app is built with [React Native](https://reactnative.dev/) using [Expo](https://expo.io/) and [Tailwind CSS](https://tailwindcss.com/) for a sleek and responsive design.
+This app is built with [React Native](https://reactnative.dev/) using [Expo](https://expo.io/) and [Tailwind CSS](https://www.nativewind.dev/)
+for a sleek and responsive design.
 
 ### Algorithm
 
