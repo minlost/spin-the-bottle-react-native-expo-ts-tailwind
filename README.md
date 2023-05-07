@@ -8,7 +8,7 @@ Vítejte u mé druhé React Native Expo aplikace s názvem **Točení flašky** 
 
 ### Technologie
 
-Tato aplikace je postavena na [React Native](https://reactnative.dev/) s využitím [Expo](https://expo.io/) a [Tailwind CSS](https://tailwindcss.com/) pro elegantní a responzivní design.
+Tato aplikace je postavena na [React Native](https://reactnative.dev/) s využitím [Expo](https://expo.io/) a [Tailwind CSS](https://www.nativewind.dev/) pro elegantní a responzivní design.
 
 ### Algoritmus
 
